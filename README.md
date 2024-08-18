@@ -11,7 +11,7 @@ operation.
 ## Features
 :white_check_mark: Upload multiple PDF files through PyPDF2. <br />
 :white_check_mark: Split raw text into text chunks using Langchain Text-Splitter. <br />
-:white_check_mark: Create vectorDB and populate with text embeddings uisng Langchain FAISS. <br />
+:white_check_mark: Create vectorDB and populate with text embeddings using Langchain FAISS. <br />
 :white_check_mark: Both OpenAI and Hugging Face (Instructor-XL) model implemented for embeddings.  <br />
 :white_check_mark: Maintain conversation chain using Langchain.  <br />
 :white_check_mark: LLM chat support from OpenAI or Hugging Face models. <br />
