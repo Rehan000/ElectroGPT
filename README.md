@@ -36,3 +36,5 @@ streamlit run app.py
 
 Upload the required PDF datasheets and click the process button once, once
 processing is done, ask your questions in the text bar provided.
+
+Note: Don't forget to add OpenAI and Hugging Face API keys in .env file.
